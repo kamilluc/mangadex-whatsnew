@@ -1,0 +1,17 @@
+scrapper zmienia strony
+
+server
+dane ze scrappera id filtrowane z baza jak juz byly to nie dodawac
+oblsuga like dislike do bazy endpointy
+
+sqlite baza ?
+
+
+font
+nazwa link (href blank) img on hover downlaod w popup przycisk like dislike i zapis do dany
+
+
+jakis globalny script 
+	uruchamia scrapper, czeka az sie skonczy
+	wlacza server
+	wlacza front
